@@ -6,4 +6,9 @@ public class Main {
     public void bbb() {
         System.out.println("bbb!");
     }
+
+   @Test
+    public void aaa() {
+        System.out.println("aaa!");
+    }
 }

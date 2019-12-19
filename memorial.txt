@@ -1,5 +1,5 @@
-<<<<<<< HEAD
+
 nihao2113
-=======
+
 nihao123
->>>>>>> 9b6ba2e3b0dc91d5ffb559cf88e6dc02f3d0fa12
+

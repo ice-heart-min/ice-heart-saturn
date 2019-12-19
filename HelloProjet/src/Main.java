@@ -11,4 +11,9 @@ public class Main {
     public void aaa() {
         System.out.println("aaa!");
     }
+
+ @Test
+    public void ccc() {
+        System.out.println("aaa!");
+    }
 }
